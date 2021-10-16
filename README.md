@@ -1,1 +1,0 @@
-# bookister-app
